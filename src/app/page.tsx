@@ -26,9 +26,7 @@ export default function Home() {
         <button  onClick={handleClick}>Click me</button>
 
 
-        {/* <div className=" rounded-sm text-black h-24 w-14 bg-slate-300 "><h1>h1</h1></div>
-
-        <Image src={'/public/IMG_20230824_075009'} alt="profile image"></Image> */}
+        
 
       </main>
 
